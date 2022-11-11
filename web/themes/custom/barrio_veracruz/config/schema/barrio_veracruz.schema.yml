@@ -1,0 +1,5 @@
+# Schema for the configuration files of the Bootstrap Barrio Subtheme.
+
+barrio_veracruz.settings:
+  type: barrio_veracruz.settings
+  label: 'barrio veracruz settings'
